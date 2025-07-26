@@ -247,14 +247,4 @@ Your Software Folder/
 
 ---
 
-## 📞 Support
-
-If you encounter issues:
-1. Check the troubleshooting section above
-2. Ensure all prerequisites are installed
-3. Verify file permissions and available disk space
-4. Review any error messages for specific guidance
-
----
-
 **🎉 Enjoy seamless software version synchronization with VersionEqualizer!**
